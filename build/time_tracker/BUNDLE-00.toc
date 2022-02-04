@@ -1,0 +1,3 @@
+([('time_tracker',
+   '/Users/admin/Downloads/mac_code2.2/dist/time_tracker',
+   'EXECUTABLE')],)
